@@ -14,3 +14,21 @@ The player loses 75 points if they guessed incorrectly.
 If a player reaches 0 points the game is over.
 If a player has more than 0 points they decide if they want to keep playing.
 If a player decides not to play again the game is over.
+
+## Structure
+Files are organized:
+
+root
++-- hilo (source code)
+  +-- game (classes)
+  +-- main (entry point)
++-- README.md (This file)
+
+
+## Required Technologies
+---
+* Python 3.8.0
+
+## Author
+---
+* Jeremiah Miclat (jeremiah_miclat@byui.edu)
